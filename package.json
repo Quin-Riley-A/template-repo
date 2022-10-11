@@ -27,6 +27,7 @@
     "webpack-dev-server": "3.11.3"
   },
   "dependencies": {
-    "bootstrap": "^4.5.3"
+    "bootstrap": "^4.5.3",
+    "dotenv-webpack": "^2.0.0"
   }
 }
